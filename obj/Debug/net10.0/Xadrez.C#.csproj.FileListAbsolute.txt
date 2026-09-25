@@ -1,0 +1,14 @@
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\bin\Debug\net10.0\Xadrez.C#.exe
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\bin\Debug\net10.0\Xadrez.C#.deps.json
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\bin\Debug\net10.0\Xadrez.C#.runtimeconfig.json
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\bin\Debug\net10.0\Xadrez.C#.dll
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\bin\Debug\net10.0\Xadrez.C#.pdb
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\Xadrez.C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\Xadrez.C#.AssemblyInfoInputs.cache
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\Xadrez.C#.AssemblyInfo.cs
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\Xadrez.C#.csproj.CoreCompileInputs.cache
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\Xadrez.C#.dll
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\refint\Xadrez.C#.dll
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\Xadrez.C#.pdb
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\Xadrez.C#.genruntimeconfig.cache
+C:\Users\Dallas\Desktop\VScode\Estudos\_C#\Portifolio\Xadrez.C#\obj\Debug\net10.0\ref\Xadrez.C#.dll
